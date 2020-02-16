@@ -1,0 +1,58 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Zoltan Herczog</title>
+		<link>https://zoltanherczog.com/posts/</link>
+		<description>Recent content in Posts on Zoltan Herczog</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 13 Jan 2020 22:27:27 +0100</lastBuildDate>
+		<atom:link href="https://zoltanherczog.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Bootstrapping!</title>
+			<link>https://zoltanherczog.com/posts/2020-01-13-bootstrapping/</link>
+			<pubDate>Mon, 13 Jan 2020 22:27:27 +0100</pubDate>
+			
+			<guid>https://zoltanherczog.com/posts/2020-01-13-bootstrapping/</guid>
+			<description>Bacon ipsum dolor amet meatball ground round pastrami pancetta, ribeye jowl pork loin pork. Corned beef pork belly cow jerky meatloaf capicola salami ham hock sirloin short loin biltong burgdoggen shankle jowl tongue. Pig rump pork belly picanha kevin hamburger flank cow. Tongue leberkas drumstick, shankle biltong porchetta ball tip tri-tip turkey kielbasa bresaola turducken bacon venison. Short ribs tail alcatra turkey filet mignon.
+Kevin short ribs alcatra brisket drumstick. Pork loin tail cow turducken meatloaf.</description>
+			<content type="html"><![CDATA[<p>Bacon ipsum dolor amet meatball ground round pastrami pancetta, ribeye jowl
+pork loin pork. Corned beef pork belly cow jerky meatloaf capicola salami ham
+hock sirloin short loin biltong burgdoggen shankle jowl tongue. Pig rump pork
+belly picanha kevin hamburger flank cow. Tongue leberkas drumstick, shankle
+biltong porchetta ball tip tri-tip turkey kielbasa bresaola turducken bacon
+venison. Short ribs tail alcatra turkey filet mignon.</p>
+<p>Kevin short ribs alcatra brisket drumstick. Pork loin tail cow turducken
+meatloaf. Leberkas meatball andouille, pig pork belly cupim chicken beef bacon
+pork ham ham hock boudin. Drumstick meatball tri-tip, short ribs venison ham
+beef bresaola cow chislic sausage landjaeger chicken.</p>
+<p>Landjaeger sirloin jowl ham hock tri-tip turducken. Pig buffalo picanha ribeye
+filet mignon pork turducken strip steak shankle pork belly salami. Short ribs
+chislic ball tip, pancetta prosciutto pork loin ham hamburger chuck pork spare
+ribs pastrami leberkas picanha. Pastrami shoulder picanha pork loin, cow t-bone
+venison bresaola ham hock cupim capicola. Cow short loin hamburger tenderloin
+pork chop shankle salami spare ribs kevin meatball tri-tip doner buffalo. Rump
+short ribs burgdoggen short loin, alcatra jerky shank chicken chuck ham hock.</p>
+<div class="highlight"><pre class="chroma"><code class="language-php" data-lang="php"><span class="cp">&lt;?php</span>
+<span class="k">function</span> <span class="nf">something</span><span class="p">(</span><span class="nv">$a</span><span class="o">:</span><span class="nx">int</span><span class="p">)</span><span class="o">:</span><span class="nx">int</span> <span class="p">{</span>
+  <span class="k">return</span> <span class="nv">$a</span> <span class="o">*</span> <span class="mi">2</span><span class="p">;</span>
+<span class="p">}</span>
+</code></pre></div><p>Bresaola tail doner, biltong tenderloin chislic pastrami brisket ball tip
+buffalo jowl pork cupim. Rump buffalo flank venison, leberkas tongue salami.
+Alcatra drumstick meatloaf beef ribs bacon t-bone prosciutto tri-tip chicken
+ham hamburger. Ham hock jowl turkey pastrami sirloin short ribs venison biltong
+doner sausage bresaola jerky picanha pork loin. Buffalo meatloaf sirloin kevin
+picanha chislic. Bacon corned beef meatloaf, andouille leberkas hamburger
+t-bone meatball tongue pork loin capicola shankle. Strip steak frankfurter
+hamburger kevin meatball drumstick ribeye pork belly pancetta capicola short
+ribs boudin chuck brisket.</p>
+<p>Turkey ham pork kevin. Tail flank t-bone corned beef alcatra leberkas. Pig
+meatball frankfurter strip steak. Ham hock bresaola buffalo venison. Shank ball
+tip drumstick pastrami, swine ground round spare ribs. Burgdoggen filet mignon
+pork belly kielbasa, tri-tip strip steak ham hock meatball t-bone biltong
+meatloaf landjaeger salami brisket.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

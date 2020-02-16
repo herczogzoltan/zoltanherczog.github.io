@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zoltan Herczog</title>
+    <link>https://zoltanherczog.com/</link>
+    <description>Recent content on Zoltan Herczog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jan 2020 22:44:27 +0100</lastBuildDate>
+    
+	<atom:link href="https://zoltanherczog.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>https://zoltanherczog.com/about/</link>
+      <pubDate>Mon, 13 Jan 2020 22:44:27 +0100</pubDate>
+      
+      <guid>https://zoltanherczog.com/about/</guid>
+      <description>{ &amp;#34;name&amp;#34;: &amp;#34;Zoltan Herczog&amp;#34;, &amp;#34;job&amp;#34;: { &amp;#34;name&amp;#34;: &amp;#34;Cheppers LTD.&amp;#34;, &amp;#34;role&amp;#34;: &amp;#34;Drupal Developer&amp;#34;, &amp;#34;uri&amp;#34;: &amp;#34;https://cheppers.com/&amp;#34; }, &amp;#34;interests&amp;#34;: [ &amp;#34;Drupal&amp;#34;, &amp;#34;Go&amp;#34; ], &amp;#34;contacts&amp;#34;: [ &amp;#34;https://www.linkedin.com/in/herczogzoltan&amp;#34;, &amp;#34;https://keybase.io/zoltanherczog&amp;#34; ] } </description>
+    </item>
+    
+    <item>
+      <title>Bootstrapping!</title>
+      <link>https://zoltanherczog.com/posts/2020-01-13-bootstrapping/</link>
+      <pubDate>Mon, 13 Jan 2020 22:27:27 +0100</pubDate>
+      
+      <guid>https://zoltanherczog.com/posts/2020-01-13-bootstrapping/</guid>
+      <description>Bacon ipsum dolor amet meatball ground round pastrami pancetta, ribeye jowl pork loin pork. Corned beef pork belly cow jerky meatloaf capicola salami ham hock sirloin short loin biltong burgdoggen shankle jowl tongue. Pig rump pork belly picanha kevin hamburger flank cow. Tongue leberkas drumstick, shankle biltong porchetta ball tip tri-tip turkey kielbasa bresaola turducken bacon venison. Short ribs tail alcatra turkey filet mignon.
+Kevin short ribs alcatra brisket drumstick. Pork loin tail cow turducken meatloaf.</description>
+    </item>
+    
+  </channel>
+</rss>
